@@ -1,0 +1,14 @@
+{
+  "name": "gladys-MQTT",
+  "version": "0.1.0",
+  "description": "Gladys hooks for sending MQTT request to device.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gharib Damiche",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+    "mqtt": "^2.14.0"
+  }
+}
