@@ -1,5 +1,5 @@
 {
-  "name": "gladys-MQTT",
+  "name": "gladys_mqtt-hook",
   "version": "0.1.0",
   "description": "Gladys hooks for sending MQTT request to device.",
   "main": "index.js",
