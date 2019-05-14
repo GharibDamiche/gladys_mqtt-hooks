@@ -6,6 +6,8 @@ module.exports = function (sails) {
     gladys.on('ready', function(){
       connect();
     });
+
+
     return {
         exec: exec
     };
